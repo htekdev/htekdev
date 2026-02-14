@@ -38,15 +38,6 @@ Frontend     React · Astro · Tailwind CSS · Three.js
 
 ▶ [**Read more on htek.dev**](https://htek.dev/articles)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=htekdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=00E5FF&icon_color=7C3AED&text_color=E2E8F0" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htekdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=00E5FF&text_color=E2E8F0" alt="Top Languages" height="165" />
-
-</div>
-
 ## 💼 Consulting
 
 I help teams with **GitHub migrations**, **AI adoption**, and **cloud architecture**.
