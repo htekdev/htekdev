@@ -1,0 +1,22 @@
+name: Update README with Latest Articles
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily at 6 AM UTC (1 AM CT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://htek.dev/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) — $description"
+          commit_message: "docs: update README with latest articles"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
