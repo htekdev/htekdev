@@ -140,17 +140,7 @@ I create content at the frontier of **agentic software development**. Here's wha
 
 ## ✍️ Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-- **[You're Not Doing GitOps (You're Doing CI/CD With Extra Steps)](https://htek.dev/articles/youre-not-doing-gitops-cicd-with-extra-steps/)** — Most teams think they're doing GitOps because deployments trigger from Git. They're wrong. Here's the enforcement pattern that makes the difference.
-
-- **[Your GitHub Actions Don't Need Secrets](https://htek.dev/articles/your-github-actions-dont-need-secrets/)** — How a custom OIDC broker, reusable workflows, and layered frameworks turned GitHub Actions into a self-service platform for 300 engineering teams.
-
-- **[How I Turned 65+ GitHub Actions Failures into an AI-Queryable Debugging Database](https://htek.dev/articles/actions-debugger-ai-queryable-github-actions-database/)** — GitHub Actions debugging shouldn't require tribal knowledge. Actions Debugger compacts real CI failures into a queryable database for humans and AI agents.
-
-- **[AI-Powered Development Workflow: A Governed Operating System for Shipping Software](https://htek.dev/articles/ai-powered-development-workflow-operating-system/)** — The bottleneck moved from implementation to product ownership. Here's how to build a governed AI development workflow that actually ships.
-
-- **[How to Build Governed AI Agent Systems](https://htek.dev/articles/how-to-build-governed-ai-agent-systems/)** — True AI governance means deterministic control over agent actions — not more context or tokens. Here's the framework that makes multi-agent systems trustworthy.
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [I&#39;m Hunting for My Vertical](https://htek.dev/articles/im-hunting-for-my-vertical/) — I spent a week building AI across five industries and realized I&#39;ve been thinking about this all wrong. Now I&#39;m hunting.- [You&#39;re Not Doing GitOps &lpar;You&#39;re Doing CI/CD With Extra Steps&rpar;](https://htek.dev/articles/youre-not-doing-gitops-cicd-with-extra-steps/) — Most teams think they&#39;re doing GitOps because deployments trigger from Git. They&#39;re wrong. Here&#39;s the enforcement pattern that makes the difference.- [Your GitHub Actions Don&#39;t Need Secrets](https://htek.dev/articles/your-github-actions-dont-need-secrets/) — How a custom OIDC broker, reusable workflows, and layered frameworks turned GitHub Actions into a self-service platform for 300 engineering teams.- [How I Turned 65+ GitHub Actions Failures into an AI-Queryable Debugging Database](https://htek.dev/articles/actions-debugger-ai-queryable-github-actions-database/) — GitHub Actions debugging shouldn&#39;t require tribal knowledge. Actions Debugger compacts real CI failures into a queryable database for humans and AI agents.- [AI-Powered Development Workflow: A Governed Operating System for Shipping Software](https://htek.dev/articles/ai-powered-development-workflow-operating-system/) — The bottleneck moved from implementation to product ownership. Here&#39;s how to build a governed AI development workflow that actually ships.<!-- BLOG-POST-LIST:END -->
 
 ▶ **[Read more on htek.dev](https://htek.dev/articles)**
 
